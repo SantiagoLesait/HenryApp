@@ -60,6 +60,8 @@ Email: admin@henry.com
 Password: admin
 ```
 
-## Previews
+# Previews
 
-# Welcome:
+## Welcome:
+
+(https://github.com/SantiagoLesait/images/blob/main/Welcome.png?raw=true)
