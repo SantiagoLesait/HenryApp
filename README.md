@@ -15,15 +15,15 @@
   
 - Back End:
 
-+ Node.js
-+ Express
-+ Passport
-+ Mongoose
-+ Firebase
+  + Node.js
+  + Express
+  + Passport
+  + Mongoose
+  + Firebase
 
 - Database:
 
-+ MongoDB
+  + MongoDB
 
 
 ## How to start the project:
