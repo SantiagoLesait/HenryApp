@@ -65,3 +65,12 @@ Password: admin
 ## Welcome:
 
 ![Welcome](https://github.com/SantiagoLesait/images/blob/main/Welcome.png?raw=true)
+
+## Module:
+![Module](https://github.com/SantiagoLesait/images/blob/main/Module.png?raw=true)
+
+## Student Home:
+![Student Home](https://github.com/SantiagoLesait/images/blob/main/Home.png?raw=true)
+
+##Calendar
+![Calendar](https://github.com/SantiagoLesait/images/blob/main/Calendar.png?raw=true)
