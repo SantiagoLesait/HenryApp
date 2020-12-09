@@ -77,12 +77,11 @@ Password: admin
 
 # About Us:
 ## We are a group of 9 Soy Henry students. These are our Github accounts:
-  - Lismairy Alejandra Sánchez Hernández
-  - Alejandro Zdut
-  - Sebastian Lescano
-  - Cesar Contreras
-  - Vanesa Lozano
-  - Vanesa Lozano
-  - Alexis Enriquez
-  - Santiago Barrios
-  - Leonela VonTauzz
+  - [Lismairy Alejandra Sánchez Hernández](https://github.com/Lismairy-Sanchez)
+  - [Alejandro Zdut](https://github.com/alezdut)
+  - [Sebastian Lescano](https://github.com/fayser17)
+  - [Cesar Contreras](https://github.com/cescontreras)
+  - [Vanesa Lozano](https://github.com/nvlozano)
+  - [Alexis Enriquez](https://github.com/Alexis-Enriquez)
+  - [Santiago Barrios](https://github.com/SantiagoLesait)
+  - [Leonela VonTauzz](https://github.com/leonelatauzz)
