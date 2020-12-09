@@ -5,6 +5,7 @@
 # Henry
 
 ## Our stack of technologies:
+- Front End:
 
   + HTML - CSS - Javascript
   + React
