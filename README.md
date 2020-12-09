@@ -6,24 +6,23 @@
 
 ## Our stack of technologies:
 
--Our stack of technologies:
-  +HTML - CSS - Javascript
-  +React
-  +Redux
-  +Material-ui
-  +Animejs
+  + HTML - CSS - Javascript
+  + React
+  + Redux
+  + Material-ui
+  + Animejs
   
--Back End:
+- Back End:
 
-+Node.js
-+Express
-+Passport
-+Mongoose
-+Firebase
++ Node.js
++ Express
++ Passport
++ Mongoose
++ Firebase
 
--Database:
+- Database:
 
-+MongoDB
++ MongoDB
 
 
 ## How to start the project:
@@ -34,13 +33,13 @@ If you want to see the page for yourself, you'll need to do the following:
 ```
 REACT_APP_API_URL=http://localhost:3001
 ```
--Install Mongoodb on your computer and create a database called HenryApp.
+- Install Mongoodb on your computer and create a database called HenryApp.
 
--Head to the Googledeveloper consoles to obtain your OAuth keys. If you're unfamiliat with the process, you can find some helpful guides here.
+- Head to the Googledeveloper consoles to obtain your OAuth keys. If you're unfamiliat with the process, you can find some helpful guides here.
 
--Sign up with Mailgun and obtain an API key.
+- Sign up with Mailgun and obtain an API key.
 
--Create a .env file in in the api folder with the following contents:
+- Create a .env file in in the api folder with the following contents:
 
 ```
 DATABASE_ATLAS=mongodb+srv://HenryApp:HenryAppAtlas@cluster0.bucqc.mongodb.net/test
