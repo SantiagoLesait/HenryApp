@@ -72,5 +72,5 @@ Password: admin
 ## Student Home:
 ![Student Home](https://github.com/SantiagoLesait/images/blob/main/Home.png?raw=true)
 
-##Calendar
+## Calendar
 ![Calendar](https://github.com/SantiagoLesait/images/blob/main/Calendar.png?raw=true)
