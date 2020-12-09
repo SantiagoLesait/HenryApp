@@ -64,4 +64,4 @@ Password: admin
 
 ## Welcome:
 
-https://raw.githubusercontent.com/SantiagoLesait/images/main/Welcome.png?token=AQM3L5FGFRCCHDGFZKUTSZS72FQRI
+![Welcome](Welcome.png)
