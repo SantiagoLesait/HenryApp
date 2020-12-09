@@ -72,5 +72,17 @@ Password: admin
 ## Student Home:
 ![Student Home](https://github.com/SantiagoLesait/images/blob/main/Home.png?raw=true)
 
-## Calendar
+## Calendar:
 ![Calendar](https://github.com/SantiagoLesait/images/blob/main/Calendar.png?raw=true)
+
+# About Us:
+## We are a group of 9 Soy Henry students. These are our Github accounts:
+  - Lismairy Alejandra Sánchez Hernández
+  - Alejandro Zdut
+  - Sebastian Lescano
+  - Cesar Contreras
+  - Vanesa Lozano
+  - Vanesa Lozano
+  - Alexis Enriquez
+  - Santiago Barrios
+  - Leonela VonTauzz
