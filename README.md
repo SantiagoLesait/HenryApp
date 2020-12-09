@@ -34,7 +34,7 @@ If you want to see the page for yourself, you'll need to do the following:
 ```
 REACT_APP_API_URL=http://localhost:3001
 ```
-- Install Mongoodb on your computer and create a database called HenryApp.
+- Install [Mongoodb](https://www.mongodb.com/) on your computer and create a database called HenryApp.
 
 - Head to the Googledeveloper consoles to obtain your OAuth keys. If you're unfamiliat with the process, you can find some helpful guides here.
 
