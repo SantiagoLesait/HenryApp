@@ -76,7 +76,7 @@ Password: admin
 ![Calendar](https://github.com/SantiagoLesait/images/blob/main/Calendar.png?raw=true)
 
 # About Us:
-## We are a group of 9 Soy Henry students. These are our Github accounts:
+## We are a group of 8 SoyHenry students. These are our Github accounts:
   - [Lismairy Alejandra Sánchez Hernández](https://github.com/Lismairy-Sanchez)
   - [Alejandro Zdut](https://github.com/alezdut)
   - [Sebastian Lescano](https://github.com/fayser17)
