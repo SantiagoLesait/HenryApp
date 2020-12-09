@@ -36,9 +36,9 @@ REACT_APP_API_URL=http://localhost:3001
 ```
 - Install [Mongoodb](https://www.mongodb.com/) on your computer and create a database called HenryApp.
 
-- Head to the Googledeveloper consoles to obtain your OAuth keys. If you're unfamiliat with the process, you can find some helpful guides here.
+- Head to the [Googledeveloper](https://console.developers.google.com/projectselector2/apis/dashboard?supportedpurview=project&pli=1) consoles to obtain your OAuth keys. If you're unfamiliat with the process, you can find some helpful guides [here](https://developers.google.com/fit/android/get-api-key).
 
-- Sign up with Mailgun and obtain an API key.
+- Sign up with [Mailgun](https://www.mailgun.com/) and obtain an API key.
 
 - Create a .env file in in the api folder with the following contents:
 
